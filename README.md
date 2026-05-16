@@ -55,10 +55,10 @@ firstname.lastname@department.mycompany.com
 
 # Project Structure
 
-emailapp/
-│
-├── Email.java
-├── EmailApp.java
+emailapp/ \
+│\
+├── Email.java\
+├── EmailApp.java\
 └── README.md
 
 ---
