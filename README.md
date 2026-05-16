@@ -196,28 +196,27 @@ AB12@CD34#
 
 # How to Run the Project
 
-### Step 1: Open Project in VS Code
+### Step 1: Open Project in VS Code ###
 Open the project folder in Visual Studio Code.
 ---
-### Step 2: Open Terminal
+### Step 2: Open Terminal ###
 Go to:
 Terminal → New Terminal
 ---
-### Step 3: Compile the Java Files
+### Step 3: Compile the Java Files ###
 Run the following command:
 ```bash
 javac emailapp/*.java
 ```
 (This compiles all Java files inside the emailapp package.)
-### Step 4: Run the Application:
+### Step 4: Run the Application: ###
 Run:
 ```bash
 java emailapp.EmailApp
 ```
 ---
----
 Author
 
 Sushant Khanal
 ---
----                                 
+                                 
